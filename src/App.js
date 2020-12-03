@@ -4,7 +4,7 @@ import CCMyKitchen from "./ClassComponents/CCMyKitchen";
 function App() {
   return (
     <div className="App">
-      <CCMyKitchen />
+      <CCMyKitchen /> 
     </div>
   );
 }
